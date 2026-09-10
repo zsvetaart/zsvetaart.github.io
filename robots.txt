@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_astro/hero.DKYGhQOU_zeVGX.webp
+
+Sitemap: https://zsvetaart.github.io/image-sitemap.xml
